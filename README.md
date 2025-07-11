@@ -1,3 +1,3 @@
 # Learn-OpenCV
 
-## project 0 [here](Stone-Paper_Scissor)
+## project 0 [here](Stone_Paper_Scissor)
