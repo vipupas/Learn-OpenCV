@@ -14,3 +14,7 @@ pip install opencv-python
 ```bash
 python3 ~/stone-paper-sissor.py
 ```
+
+## Test Image
+
+<img src="test-image.png" width="400" height="400">
